@@ -1,0 +1,111 @@
+
+Contrato de desarrollo de software bajo el marco ágil
+
+REUNIDOS
+
+En [Población] a [Día] de [Mes] de [Año]
+DE UNA PARTE:
+[Nombre empresa] (en adelante, EMPRESA DESARROLLADORA) con NIT [NIT], con domicilio en [Nombre vía y nº], [Código Postal], de [Ciudad], inscrita en [registro de empresas que pudiera proceder] y en su nombre y representación [D. Dña.] [Nombre], actuando en calidad de [cargo o relación], según [Escritura, poder notarial, calidad laboral o lo que proceda.]
+Y DE OTRA:
+[Nombre empresa] (en adelante, EMPRESA CLIENTE) con NIT [NIT], con domicilio en [Nombre vía y nº], [Código Postal], de [Ciudad], inscrita en [registro de empresa que pudiera proceder] y en su nombre y representación [D. Dña.] [Nombre], actuando en calidad de [cargo o relación], según [Escritura, poder notarial, calidad laboral o lo que proceda.]
+
+Los contratantes se reconocen recíprocamente, en el carácter en que intervienen, plena capacidad jurídica para contratar y en el caso de representar a terceros, cada uno de los intervinientes asegura que, el poder con el que actúa no ha sido revocado ni limitado, y que es bastante para obligar a sus representados en virtud de este CONTRATO DE DESARROLLO DE SOFTWARE y a tal objeto: 
+
+EXPONEN:
+ 	 
+I. Que EMPRESA DESARROLLADORA de conformidad con su objeto social, se dedica a la programación e integración de sistemas de software.
+
+II. Que EMPRESA CLIENTE está interesada en contratar a EMPRESA DESARROLLADORA un sistema de software con los requisitos y estipulaciones acordados en este contrato.
+
+III. Que en base a lo anterior, ambas partes acuerdan la suscripción del presente contrato que se regirá de acuerdo con los siguientes:
+
+PACTOS Y ESTIPULACIONES:
+PRIMERA: DEFINICIONES
+Por mantenimiento correctivo se entiende en este contrato el definido en el estándar técnico de mantenimiento de software IEEE 1219-1998: “Modificaciones realizadas a un producto de software después de su entrega para corregir fallos descubiertos”.
+
+Por mantenimiento adaptativo o perfectivo, en este contrato se entiende el así definido en el mismo estándar técnico de mantenimiento de software IEEE 1219-1998: “Modificaciones realizadas a un producto de software después de su entrega para adaptar su funcionamiento a nuevas condiciones del entorno de operación, o para ampliar o modificar su funcionamiento”.
+SEGUNDA: OBJETO
+El objeto del presente contrato es el desarrollo por parte de EMPRESA DESARROLLADORA del sistema de software del proyecto denominado [Nombre del sistema]
+TERCERA: CICLO DE DESARROLLO
+La construcción del sistema de software objeto de este contrato se llevará a cabo de forma iterativa e incremental, de forma que EMPRESA DESARROLLADORA ejecutará ciclos de programación sucesivos, y al final de cada uno entregará según las estipulaciones del apartado CUARTO la parte desarrollada.
+
+La descripción de las funcionalidades y requisitos que debe cumplir cada entrega parcial del producto las acordarán las partes en contratos anexos a este acuerdo marco.
+
+Cada contrato anexo incluirá:
+
+Información identificativa: Fecha, referencia al presente contrato y a su condición de anexo del mismo.
+Descripción de los requisitos funcionales que deben realizarse o modificarse, indicando para cada uno los criterios que se emplearán para validar la parte que se ha realizado.
+Fecha límite para la entrega del software según las estipulaciones del apartado CUARTO.
+Precio y forma de pago convenido por las partes por el desarrollo e integración en los equipos de producción del producto de software desarrollado.
+Condiciones de penalización o garantía que pudieran resultar aplicables por retrasos en la entrega del producto de software desarrollado.
+Cuando proceda, indicación de si se trata de la última fase de desarrollo prevista por EMPRESA CLIENTE, y que por tanto, tras su entrega y validación según Las estipulaciones CUARTA Y QUINTA de este contrato, se dará fin al mismo.
+CUARTA: ENTREGA DE LOS PRODUCTOS DE SOFTWARE.
+Al final de cada iteración o ciclo de programación EMPRESA DESARROLLADORA procederá a la entrega del sistema.
+A los efectos y finalidad de este contrato, por entrega se entiende:
+
+Integración e instalación en estado de funcionamiento correcto, por parte de EMPRESA DESARROLLADORA del software desarrollado, sobre los equipos de hardware de producción, que para tal fin EMPRESA CLIENTE tendrá disponibles y accesibles telemática y físicamente para el personal técnico de EMPRESA DESARROLLADORA.
+
+b) 	Entrega de EMPRESA DESARROLLADORA a EMPRESA CLIENTE, en formato digital, todos los productos y subproductos de software desarrollados: código fuente, ejecutables en su caso, y documentación desarrollada: diseño, análisis, pruebas...
+
+Se considerará por entregada una parte del sistema cuando se encuentre instalada y en condiciones de operar sin errores aparentes, y entregados en formato digital los productos y sub-productos de software generados en el ciclo de desarrollo.
+
+QUINTA: VALIDACIÓN DE LAS ENTREGAS PARCIALES.
+Tras la entrega de cada parte del sistema, EMPRESA CLIENTE dispondrá de [Nº de días] días naturales para realizar las pruebas de verificación y validación que estime oportunas.
+Si durante las pruebas encontrara errores o deficiencias, lo notificará por escrito a EMPRESA DESARROLLADORA, para que proceda a contrastarlos y subsanarlos.
+Si fuera necesario subsanar errores, EMPRESA DESARROLLADORA una vez realizados los arreglos, procederá a una nueva entrega.
+Si los errores detectados afectan a funcionalidades básicas para el funcionamiento del sistema [Nombre del sistema], e implican que no puede ponerse en explotación el subsistema desarrollado, la fecha de la entrega con los errores subsanados es la que se computará como fecha de entrega válida, y tras la cual EMPRESA CLIENTE dispondrá nuevamente de [Nº de días] días naturales para realizar pruebas de verificación y validación.
+Si pasados [Nº de días] días naturales tras la entrega EMPRESA CLIENTE no indicara problemas o deficiencias, se entenderá que la entrega ha sido validada por EMPRESA CLIENTE.
+SEXTA: PROPIEDAD INTELECTUAL
+Corresponden a EMPRESA CLIENTE cualesquiera derechos de explotación derivados de la Ley de Propiedad Intelectual, tanto del sistema programado, como de los subsistemas que lo integran, y que igualmente hayan sido desarrollados por EMPRESA DESARROLLADORA, así como de todos los subproductos: documentación técnica de análisis y diseño, documentación de planificación y pruebas, etc.
+la EMPRESA DESARROLLADORA garantiza que los trabajos y servicios prestados a EMPRESA CLIENTE por el objeto de este contrato no infringen ni vulneran los derechos de propiedad intelectual o industrial o cualesquiera otros derechos legales o contractuales de terceros.
+SÉPTIMA: GARANTÍA
+Una vez entregada y validada cada parte, se iniciará un periodo de garantía del correcto funcionamiento y adecuación a los requisitos de rendimiento y calidad de [Nº de meses] meses.
+La garantía cubrirá el servicio de mantenimiento correctivo por parte de EMPRESA DESARROLLADORA, con un tiempo de respuesta a las notificaciones de incidencias inferior a las [Nº de horas] horas laborables desde la notificación, y un tiempo de reparación acorde al esfuerzo técnico necesario para su reparación.
+
+La garantía no cubre operaciones de mantenimiento adaptativo o perfectivo.
+OCTAVA: RESOLUCIÓN DEL CONTRATO
+El presente contrato quedará resuelto al producirse alguna de las siguientes causas:
+Entrega y validación de la parte del desarrollo consignada como última en el contrato de requisitos de dicha parte.
+Por decisión de EMPRESA CLIENTE. Si la resolución por esta causa y la comunicación a EMPRESA DESARROLLADORA se produjera a mitad de un ciclo de programación, la resolución se llevará a cabo al finalizar el mismo.
+Incumplimiento de las obligaciones correspondientes a cada parte. La resolución por esta causa podrá dar lugar a indemnización por daños y perjuicios causados por el incumplimiento.
+Por hallarse cualquiera de las partes en un supuesto de caso fortuito o fuerza mayor.
+
+Si el contrato se resuelve anticipadamente sin producir la entrega del sistema de software en su totalidad o en la forma dispuesta en este contrato, ambas partes colaborarán de buena fe y en especial EMPRESA DESARROLLADORA para facilitar, bien la contratación de una nueva entidad que dé continuidad a los trabajos, o bien para que EMPRESA CLIENTE pueda continuar con los trabajos, y en cualquiera de los casos facilitar la transferencia del conocimiento y sub-productos generados.
+
+A la resolución del contrato, EMPRESA DESARROLLADORA, con independencia de las entregas parciales hayan realizado, entregará a EMPRESA CLIENTE todos los productos y documentación del software producidos, con un sistema de clasificación y acceso que permita identificar las versiones de cada componente conforme a cada versión del sistema construido.
+NOVENA: GENERAL
+Personal: cada parte asume, a título exclusivo el carácter de patrono o empresario de su personal empleado para la ejecución del presente contrato.
+
+Interlocutores válidos: para llevar a cabo las comunicaciones necesarias durante la ejecución del contrato se nombran como interlocutores válidos:
+
+POR EMPRESA CLIENTE.
+[D. Dña]. [Nombre]
+[Domicilio]
+Teléfono: [Nº teléfono]
+e-mail: [e-mail]
+
+POR EMPRESA DESARROLLADORA
+[D. Dña]. [Nombre]
+[Domicilio]
+Teléfono: [Nº teléfono]
+e-mail: [e-mail]
+
+Efecto: El presente contrato surtirá efecto a partir de la fecha de su firma.
+
+Cesión del contrato: Las partes no pueden ceder, transferir ni delegar el presente contrato o alguna de sus obligaciones, ni subrogar a terceros en cualquier forma válida en derecho, ni gravar o hipotecar alguno de los derechos contemplados en el contrato, sin la previa conformidad escrita de la otra parte.
+
+Contrato completo: El presente contrato, incluidos los anexos que irán generando los documentos de requisitos con las firmas de aceptación de las partes, constituyen el total del contrato entre las partes sobre el objeto del mismo, y sustituye, deroga y deja sin efecto cualquier otro acuerdo referido al mismo objeto a que hubieren llegado las partes con anterioridad a la fecha de la firma.
+
+Nulidad o anulabilidad: La declaración de cualquiera de estas estipulaciones como nula, inválida o ineficaz no afectará a la validez o eficacia de las restantes, que continuarán vinculando a las partes.
+La renuncia de una parte a exigir en un momento determinado el cumplimiento de uno de los pactos acordados no implica una renuncia con carácter general ni puede crear un derecho adquirido para la otra parte.
+
+Exención de responsabilidad: ninguna de las partes será responsable por incumplimiento o retraso de sus obligaciones si la falta de ejecución o retraso fuera consecuencia de caso fortuito o fuerza mayor.
+
+DÉCIMA: SUMISIÓN
+Las partes contratantes, con renuncia de su propio fuero o del que pudiera corresponderles, en cuantas cuestiones o litigios se susciten del motivo de la interpretación, aplicación o cumplimiento del presente acuerdo, se someten a la Jurisdicción y Competencia de los Juzgados de [Población] y sus Tribunales superiores. La ley aplicable será la [nacion donde se celebra el contranto].
+
+Y en prueba de conformidad ambas partes firman el presente, por duplicado ejemplar y a un solo efecto en la fecha y lugar indicado.
+
+
+
+
